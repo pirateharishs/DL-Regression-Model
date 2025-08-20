@@ -1,7 +1,7 @@
 # Developing a Neural Network Regression Model
 
-### NAME: HARISH S
-### REG NO: 212223230071
+## NAME: HARISH S
+## REG NO: 212223230071
 
 ## AIM
 To develop a neural network regression model for the given dataset.
